@@ -3,8 +3,8 @@
 #  | LOGIN PARAMETERS |
 #  ====================
 
-gmail = "nilshuber0101@gmail.com" # Please enter the sender's E-mail address. Only @gmail.com addresses are accepted. Change this, as the email address filled in does not exist.
-passkey = "diehrgeafmzktjio"  # Enter the app password for the sender E-mail. Refer to "readme.txt" for more info.
+gmail = "example@gmail.com" # Please enter the sender's E-mail address. Only @gmail.com addresses are accepted. Change this, as the email address filled in does not exist.
+passkey = "examplePass"  # Enter the app password for the sender E-mail. Refer to "readme.txt" for more info.
 
 #  ====================
 #  | Program Settings |
